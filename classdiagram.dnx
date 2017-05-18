@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.0/notation" xmlns:uml="http://www.eclipse.org/uml2/2.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.2/Umlnotation" xmi:id="_p_kJYWhNEd6gd8TlppsL1w" type="Class" name="classdiagram.dnx">
+  <children xmi:id="_s9y1EGhNEd6gd8TlppsL1w">
+    <children xmi:id="_s-FwAGhNEd6gd8TlppsL1w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_s-FwAWhNEd6gd8TlppsL1w" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_s-FwAmhNEd6gd8TlppsL1w" type="Stereotype"/>
+    <children xmi:id="_s-FwA2hNEd6gd8TlppsL1w" type="Name"/>
+    <children xmi:id="_s-GXEGhNEd6gd8TlppsL1w" type="Parent"/>
+    <children xmi:id="_s-G-IGhNEd6gd8TlppsL1w" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-G-IWhNEd6gd8TlppsL1w"/>
+    </children>
+    <children xmi:id="_s-HlMGhNEd6gd8TlppsL1w" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-HlMWhNEd6gd8TlppsL1w"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_s9y1EWhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=PulseOximeter%5Bjcu%5Ename=PulseOximeter.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s9y1EmhNEd6gd8TlppsL1w" x="8417" y="2254"/>
+  </children>
+  <children xmi:id="_s-HlMmhNEd6gd8TlppsL1w">
+    <children xmi:id="_s-IMQGhNEd6gd8TlppsL1w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_s-IMQWhNEd6gd8TlppsL1w" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_s-IMQmhNEd6gd8TlppsL1w" type="Stereotype"/>
+    <children xmi:id="_s-IMQ2hNEd6gd8TlppsL1w" type="Name"/>
+    <children xmi:id="_s-IzUGhNEd6gd8TlppsL1w" type="Parent"/>
+    <children xmi:id="_s-IzUWhNEd6gd8TlppsL1w" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-IzUmhNEd6gd8TlppsL1w"/>
+    </children>
+    <children xmi:id="_s-IzU2hNEd6gd8TlppsL1w" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-IzVGhNEd6gd8TlppsL1w"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_s-HlM2hNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=InvalidChecksumException%5Bjcu%5Ename=InvalidChecksumException.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s-HlNGhNEd6gd8TlppsL1w" x="16518" y="16800"/>
+  </children>
+  <children xmi:id="_s-IzVWhNEd6gd8TlppsL1w">
+    <children xmi:id="_s-KBcGhNEd6gd8TlppsL1w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_s-KBcWhNEd6gd8TlppsL1w" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_s-KogGhNEd6gd8TlppsL1w" type="Stereotype"/>
+    <children xmi:id="_s-LPkGhNEd6gd8TlppsL1w" type="Name"/>
+    <children xmi:id="_s-LPkWhNEd6gd8TlppsL1w" type="Parent"/>
+    <children xmi:id="_s-LPkmhNEd6gd8TlppsL1w" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-LPk2hNEd6gd8TlppsL1w"/>
+    </children>
+    <children xmi:id="_s-LPlGhNEd6gd8TlppsL1w" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-LPlWhNEd6gd8TlppsL1w"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_s-IzVmhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=SerialPortReader%5Bjsrctype%5Ename=PulseOximeter%5Bjcu%5Ename=PulseOximeter.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s-IzV2hNEd6gd8TlppsL1w" x="2122" y="6153"/>
+  </children>
+  <children xmi:id="_s-LPlmhNEd6gd8TlppsL1w">
+    <children xmi:id="_s-L2oGhNEd6gd8TlppsL1w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_s-L2oWhNEd6gd8TlppsL1w" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_s-L2omhNEd6gd8TlppsL1w" type="Stereotype"/>
+    <children xmi:id="_s-L2o2hNEd6gd8TlppsL1w" type="Name"/>
+    <children xmi:id="_s-L2pGhNEd6gd8TlppsL1w" type="Parent"/>
+    <children xmi:id="_s-L2pWhNEd6gd8TlppsL1w" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-L2pmhNEd6gd8TlppsL1w"/>
+    </children>
+    <children xmi:id="_s-L2p2hNEd6gd8TlppsL1w" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-L2qGhNEd6gd8TlppsL1w"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_s-LPl2hNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=DataProcessor%5Bjcu%5Ename=DataProcessor.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s-LPmGhNEd6gd8TlppsL1w" x="16801" y="6023"/>
+  </children>
+  <children xmi:id="_s-L2qWhNEd6gd8TlppsL1w">
+    <children xmi:id="_s-MdsGhNEd6gd8TlppsL1w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_s-MdsWhNEd6gd8TlppsL1w" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_s-MdsmhNEd6gd8TlppsL1w" type="Stereotype"/>
+    <children xmi:id="_s-Mds2hNEd6gd8TlppsL1w" type="Name"/>
+    <children xmi:id="_s-MdtGhNEd6gd8TlppsL1w" type="Parent"/>
+    <children xmi:id="_s-MdtWhNEd6gd8TlppsL1w" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-MdtmhNEd6gd8TlppsL1w"/>
+    </children>
+    <children xmi:id="_s-Mdt2hNEd6gd8TlppsL1w" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-MduGhNEd6gd8TlppsL1w"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_s-L2qmhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=DataQueue%5Bjcu%5Ename=DataQueue.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s-L2q2hNEd6gd8TlppsL1w" x="8669" y="12841"/>
+  </children>
+  <children xmi:id="_s-Nr0GhNEd6gd8TlppsL1w">
+    <children xmi:id="_s-OS4GhNEd6gd8TlppsL1w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_s-OS4WhNEd6gd8TlppsL1w" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_s-OS4mhNEd6gd8TlppsL1w" type="Stereotype"/>
+    <children xmi:id="_s-OS42hNEd6gd8TlppsL1w" type="Name"/>
+    <children xmi:id="_s-OS5GhNEd6gd8TlppsL1w" type="Parent"/>
+    <children xmi:id="_s-OS5WhNEd6gd8TlppsL1w" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-O58GhNEd6gd8TlppsL1w"/>
+    </children>
+    <children xmi:id="_s-O58WhNEd6gd8TlppsL1w" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-O58mhNEd6gd8TlppsL1w"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_s-Nr0WhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=DataParser%5Bjcu%5Ename=DataParser.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s-Nr0mhNEd6gd8TlppsL1w" x="26945" y="2219"/>
+  </children>
+  <children xmi:id="_s-O582hNEd6gd8TlppsL1w">
+    <children xmi:id="_s-O59mhNEd6gd8TlppsL1w" type="ImageCompartment">
+      <layoutConstraint xmi:type="notation:Size" xmi:id="_s-O592hNEd6gd8TlppsL1w" width="1320" height="1320"/>
+    </children>
+    <children xmi:id="_s-PhAGhNEd6gd8TlppsL1w" type="Stereotype"/>
+    <children xmi:id="_s-PhAWhNEd6gd8TlppsL1w" type="Name"/>
+    <children xmi:id="_s-PhAmhNEd6gd8TlppsL1w" type="Parent"/>
+    <children xmi:id="_s-PhA2hNEd6gd8TlppsL1w" type="AttributeCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-PhBGhNEd6gd8TlppsL1w"/>
+    </children>
+    <children xmi:id="_s-PhBWhNEd6gd8TlppsL1w" type="OperationCompartment">
+      <styles xmi:type="umlnotation:UMLListCompartmentStyle" xmi:id="_s-PhBmhNEd6gd8TlppsL1w"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLShapeStyle" xmi:id="_s-O59GhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Label"/>
+    <element xmi:type="uml:Class" href="mmi:///#jsrctype%5Ename=InvalidStatusException%5Bjcu%5Ename=InvalidStatusException.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D$uml.Class"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_s-O59WhNEd6gd8TlppsL1w" x="27896" y="16801"/>
+  </children>
+  <styles xmi:type="umlnotation:UMLDiagramStyle" xmi:id="_p_kwcGhNEd6gd8TlppsL1w"/>
+  <element xsi:nil="true"/>
+  <edges xmi:id="_tM62MGhNEd6gd8TlppsL1w" type="OwnedElement" source="_s9y1EGhNEd6gd8TlppsL1w" target="_s-IzVWhNEd6gd8TlppsL1w">
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tM62MWhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tM62MmhNEd6gd8TlppsL1w" points="[-1, 1093, 5062, -4146]$[-5081, 3210, -18, -2029]"/>
+  </edges>
+  <edges xmi:id="_tM8EUGhNEd6gd8TlppsL1w" source="_s9y1EGhNEd6gd8TlppsL1w" target="_s-LPlmhNEd6gd8TlppsL1w">
+    <children xmi:id="_tM8rYGhNEd6gd8TlppsL1w" type="KindLabel">
+      <children xmi:id="_tM9ScGhNEd6gd8TlppsL1w" type="Stereotype"/>
+      <children xmi:id="_tM9ScmhNEd6gd8TlppsL1w" type="Kind"/>
+      <children xmi:id="_tM9ScWhNEd6gd8TlppsL1w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tM8rYWhNEd6gd8TlppsL1w" y="-706"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tM8EUWhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PulseOximeter%5Bjcu%5Ename=PulseOximeter.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=DataProcessor%5Bjcu%5Ename=DataProcessor.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tM8EUmhNEd6gd8TlppsL1w" points="[-1, 1093, -4746, -4146]$[4727, 3210, -18, -2029]"/>
+  </edges>
+  <edges xmi:id="_tM9Sc2hNEd6gd8TlppsL1w" source="_s9y1EGhNEd6gd8TlppsL1w" target="_s-L2qWhNEd6gd8TlppsL1w">
+    <children xmi:id="_tM-gkGhNEd6gd8TlppsL1w" type="KindLabel">
+      <children xmi:id="_tM_HoGhNEd6gd8TlppsL1w" type="Stereotype"/>
+      <children xmi:id="_tM_HomhNEd6gd8TlppsL1w" type="Kind"/>
+      <children xmi:id="_tM_HoWhNEd6gd8TlppsL1w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tM-gkWhNEd6gd8TlppsL1w" y="-706"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tM9SdGhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PulseOximeter%5Bjcu%5Ename=PulseOximeter.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=DataQueue%5Bjcu%5Ename=DataQueue.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tM9SdWhNEd6gd8TlppsL1w" points="[-1, 1093, 546, -14270]$[17, 5239, 564, -10124]$[-565, 9383, -18, -5980]"/>
+  </edges>
+  <edges xmi:id="_tM_Ho2hNEd6gd8TlppsL1w" source="_s9y1EGhNEd6gd8TlppsL1w" target="_s-IzVWhNEd6gd8TlppsL1w">
+    <children xmi:id="_tM_usGhNEd6gd8TlppsL1w" type="KindLabel">
+      <children xmi:id="_tM_usmhNEd6gd8TlppsL1w" type="Stereotype"/>
+      <children xmi:id="_tM_utGhNEd6gd8TlppsL1w" type="Kind"/>
+      <children xmi:id="_tM_us2hNEd6gd8TlppsL1w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tM_usWhNEd6gd8TlppsL1w" y="-706"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tM_HpGhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=PulseOximeter%5Bjcu%5Ename=PulseOximeter.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=SerialPortReader%5Bjsrctype%5Ename=PulseOximeter%5Bjcu%5Ename=PulseOximeter.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tM_HpWhNEd6gd8TlppsL1w" points="[-2892, 176, 3669, -4374]$[-6597, 176, -36, -4374]$[-6597, 2822, -36, -1728]"/>
+  </edges>
+  <edges xmi:id="_tM_utWhNEd6gd8TlppsL1w" source="_s-IzVWhNEd6gd8TlppsL1w" target="_s-L2qWhNEd6gd8TlppsL1w">
+    <children xmi:id="_tNAVwGhNEd6gd8TlppsL1w" type="KindLabel">
+      <children xmi:id="_tNAVwmhNEd6gd8TlppsL1w" type="Stereotype"/>
+      <children xmi:id="_tNAVxGhNEd6gd8TlppsL1w" type="Kind"/>
+      <children xmi:id="_tNAVw2hNEd6gd8TlppsL1w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNAVwWhNEd6gd8TlppsL1w" y="-706"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tM_utmhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=SerialPortReader%5Bjsrctype%5Ename=PulseOximeter%5Bjcu%5Ename=PulseOximeter.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=DataQueue%5Bjcu%5Ename=DataQueue.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tM_ut2hNEd6gd8TlppsL1w" points="[-18, 2028, -4534, -8096]$[4498, 4144, -18, -5980]"/>
+  </edges>
+  <edges xmi:id="_tNAVxWhNEd6gd8TlppsL1w" source="_s-LPlmhNEd6gd8TlppsL1w" target="_s-O582hNEd6gd8TlppsL1w">
+    <children xmi:id="_tNA80GhNEd6gd8TlppsL1w" type="KindLabel">
+      <children xmi:id="_tNA80mhNEd6gd8TlppsL1w" type="Stereotype"/>
+      <children xmi:id="_tNA81GhNEd6gd8TlppsL1w" type="Kind"/>
+      <children xmi:id="_tNA802hNEd6gd8TlppsL1w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNA80WhNEd6gd8TlppsL1w" y="-706"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tNAVxmhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=DataProcessor%5Bjcu%5Ename=DataProcessor.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=InvalidStatusException%5Bjcu%5Ename=InvalidStatusException.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tNAVx2hNEd6gd8TlppsL1w" points="[2116, 2010, -9278, -8785]$[9278, 8784, -2116, -2011]"/>
+  </edges>
+  <edges xmi:id="_tNBj4GhNEd6gd8TlppsL1w" source="_s-LPlmhNEd6gd8TlppsL1w" target="_s-L2qWhNEd6gd8TlppsL1w">
+    <children xmi:id="_tNBj42hNEd6gd8TlppsL1w" type="KindLabel">
+      <children xmi:id="_tNCK8GhNEd6gd8TlppsL1w" type="Stereotype"/>
+      <children xmi:id="_tNCyAGhNEd6gd8TlppsL1w" type="Kind"/>
+      <children xmi:id="_tNCK8WhNEd6gd8TlppsL1w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNBj5GhNEd6gd8TlppsL1w" y="-706"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tNBj4WhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=DataProcessor%5Bjcu%5Ename=DataProcessor.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=DataQueue%5Bjcu%5Ename=DataQueue.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tNBj4mhNEd6gd8TlppsL1w" points="[-18, 2028, 5274, -8096]$[-5310, 4144, -18, -5980]"/>
+  </edges>
+  <edges xmi:id="_tNEnMGhNEd6gd8TlppsL1w" source="_s-LPlmhNEd6gd8TlppsL1w" target="_s-Nr0GhNEd6gd8TlppsL1w">
+    <children xmi:id="_tNEnM2hNEd6gd8TlppsL1w" type="KindLabel">
+      <children xmi:id="_tNEnNWhNEd6gd8TlppsL1w" type="Stereotype"/>
+      <children xmi:id="_tNFOQWhNEd6gd8TlppsL1w" type="Kind"/>
+      <children xmi:id="_tNFOQGhNEd6gd8TlppsL1w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNEnNGhNEd6gd8TlppsL1w" y="-706"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tNEnMWhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=DataProcessor%5Bjcu%5Ename=DataProcessor.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=DataParser%5Bjcu%5Ename=DataParser.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tNEnMmhNEd6gd8TlppsL1w" points="[-18, 2028, -6226, -8096]$[6191, 4144, -17, -5980]"/>
+  </edges>
+  <edges xmi:id="_tNFOQmhNEd6gd8TlppsL1w" source="_s-LPlmhNEd6gd8TlppsL1w" target="_s-HlMmhNEd6gd8TlppsL1w">
+    <children xmi:id="_tNFORWhNEd6gd8TlppsL1w" type="KindLabel">
+      <children xmi:id="_tNF1UGhNEd6gd8TlppsL1w" type="Stereotype"/>
+      <children xmi:id="_tNF1UmhNEd6gd8TlppsL1w" type="Kind"/>
+      <children xmi:id="_tNF1UWhNEd6gd8TlppsL1w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNFORmhNEd6gd8TlppsL1w" y="-706"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tNFOQ2hNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=DataProcessor%5Bjcu%5Ename=DataProcessor.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=InvalidChecksumException%5Bjcu%5Ename=InvalidChecksumException.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tNFORGhNEd6gd8TlppsL1w" points="[-18, 2028, 0, -18221]$[-18, 18220, 0, -2029]"/>
+  </edges>
+  <edges xmi:id="_tNF1U2hNEd6gd8TlppsL1w" source="_s-Nr0GhNEd6gd8TlppsL1w" target="_s-O582hNEd6gd8TlppsL1w">
+    <children xmi:id="_tNF1VmhNEd6gd8TlppsL1w" type="KindLabel">
+      <children xmi:id="_tNGcYGhNEd6gd8TlppsL1w" type="Stereotype"/>
+      <children xmi:id="_tNGcYmhNEd6gd8TlppsL1w" type="Kind"/>
+      <children xmi:id="_tNGcYWhNEd6gd8TlppsL1w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNF1V2hNEd6gd8TlppsL1w" y="-706"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tNF1VGhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=DataParser%5Bjcu%5Ename=DataParser.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=InvalidStatusException%5Bjcu%5Ename=InvalidStatusException.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tNF1VWhNEd6gd8TlppsL1w" points="[-17, 5980, -6226, -4145]$[6191, 8096, -18, -2029]"/>
+  </edges>
+  <edges xmi:id="_tNGcY2hNEd6gd8TlppsL1w" source="_s-Nr0GhNEd6gd8TlppsL1w" target="_s-HlMmhNEd6gd8TlppsL1w">
+    <children xmi:id="_tNGcZmhNEd6gd8TlppsL1w" type="KindLabel">
+      <children xmi:id="_tNHDcGhNEd6gd8TlppsL1w" type="Stereotype"/>
+      <children xmi:id="_tNHDcmhNEd6gd8TlppsL1w" type="Kind"/>
+      <children xmi:id="_tNHDcWhNEd6gd8TlppsL1w" type="Name"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_tNGcZ2hNEd6gd8TlppsL1w" y="-706"/>
+    </children>
+    <styles xmi:type="umlnotation:UMLConnectorStyle" xmi:id="_tNGcZGhNEd6gd8TlppsL1w" fontName="Lucida Grande" showStereotype="Text"/>
+    <element xmi:type="uml:Usage" href="mmi:///#jdep%5Bjsrctype%5Ename=DataParser%5Bjcu%5Ename=DataParser.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D%5Bjsrctype%5Ename=InvalidChecksumException%5Bjcu%5Ename=InvalidChecksumException.java%5Bjpack%5Ename=com.homeipliance.biometrics.spo2.nonin.ipod%5Bjsrcroot%5Esrcfolder=src%5Bproject%5Eid=com.homeipliance.biometrics.spo2.nonin%5D%5D%5D%5D%5D$uml.Usage"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_tNGcZWhNEd6gd8TlppsL1w" points="[-17, 5980, 6209, -4145]$[-6226, 8096, 0, -2029]"/>
+  </edges>
+</notation:Diagram>

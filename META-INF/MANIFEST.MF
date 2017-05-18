@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Nonin Pulse Oximeter
+Bundle-SymbolicName: com.homeipliance.biometrics.spo2.nonin
+Bundle-Version: 1.0.0
+Bundle-Vendor: Home iPliance
+
